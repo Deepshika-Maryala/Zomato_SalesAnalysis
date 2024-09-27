@@ -89,8 +89,8 @@ Lostcust = var filteruser= FILTER( SUMMARIZE(users,users[user_id]),AND([curyrsal
 - Implement promotions focused on high-demand cuisines during peak sales periods.
 - Use demographic insights to personalize marketing efforts and enhance customer loyalty.
 ### Project Phases and Milestones:
-- Data Collection and Preparation: May 2024
-- Dashboard Design and Development: July 2024
+- Data Collection and Preparation: May 2024 -June 2024
+- Dashboard Design and Development: July 2024 -September 2024
 ## Report Snapshots (Power BI Desktop)
 
 ![Screenshot 2024-09-26 193759](https://github.com/user-attachments/assets/983a91d8-70e5-4d61-949d-083c8403f283)
