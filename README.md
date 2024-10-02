@@ -66,7 +66,7 @@ Lostcust = var filteruser= FILTER( SUMMARIZE(users,users[user_id]),AND([curyrsal
 - Total Users
 - Customer gain
 - Customer Lost
-### Visuals adn Dashboards:
+### Visuals and Dashboards:
 #### Perormance Dashboard:
 - KPI: Total sales, total quantity, overall rating, total orders, non-veg sales and rating, Veg sales and rating , and other dishes sales and rating.
 - Top 10 performance cities: Analyzing the performance of zomato in top 10 cities.
