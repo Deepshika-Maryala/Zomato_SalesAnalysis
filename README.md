@@ -6,7 +6,7 @@ This project aims to create a Power BI dashboard for Zomato, offering real-time 
 - Provide real-time access to sales metrics, segmented by region.
 - Improve forecasting accuracy through trend analysis and predictive models.
 ### Data Source
-The dataset used for the analysis is "food.xlsx", "order.xlsx", "order_type.xlsx", "menu.xlsx", "restaurant.xlsx", and "user.xlsx" files, containing detail information about food items and types, menu, orders, restaurant and the users.
+The dataset used for the analysis are "food.xlsx", "order.xlsx", "order_type.xlsx", "menu.xlsx", "restaurant.xlsx", and "user.xlsx" files, containing detail information about food items and types, menu, orders, restaurant and the users.
 ### Tools:
 - Excel spreadsheets – Data cleaning
 - SQL – Data Analysis
